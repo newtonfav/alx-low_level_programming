@@ -6,8 +6,12 @@
  */
 int main(void)
 {
-	char x[] = "abcdefghijklmnopqrstuvwxyz";
+	char i;
 
-	putchar(x);
+	for (i = 'a'; i <= 'z'; i++)
+	{
+		putchar(i);
+	}
+	putchar('\n');
 	return (0);
 }
