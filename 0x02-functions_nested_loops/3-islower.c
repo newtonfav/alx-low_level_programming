@@ -4,7 +4,7 @@
  *
  * Return: ldl
  *
- * @c - any given character
+ * @c: any given character
  */
 int _islower(int c)
 {
