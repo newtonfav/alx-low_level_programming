@@ -7,11 +7,11 @@
 int main(void)
 {
 	int i;
-	char put[] = "putchar";
+	char put[] = "_putchar";
 
-	for (i = 0; i < strlen(put); i++)
+	for (i = 0; i <= 8; i++)
 	{
-		printf("%c", put[i]);
+		putchar(put[i]);
 	}
 	putchar('\n');
 	return (0);
