@@ -9,8 +9,9 @@
  */
 int _abs(int x)
 {
-	int y;
-
-	y = sqrt(int pow(x, 2));
-	return (y);
+	if (x < 0)
+	{
+		x = x * - 1;
+	}
+	return (x);
 }
