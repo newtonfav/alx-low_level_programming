@@ -3,11 +3,14 @@
 /**
  * _abs -  returns the absolute value of a number
  *
- * @int: any integer
+ * @x: any integer
  *
  * Return: always return 0
  */
 int _abs(int x)
 {
-	return sqrt(x**2);
+	int y;
+
+	y = sqrt(int x* *2);
+	return (y);
 }
