@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - sls
+ * print_alphabet - sls
  *
  * Return: dlld
  */
