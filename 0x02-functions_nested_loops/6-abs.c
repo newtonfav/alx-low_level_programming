@@ -11,6 +11,6 @@ int _abs(int x)
 {
 	int y;
 
-	y = sqrt(int x* *2);
+	y = sqrt(int pow(x, 2));
 	return (y);
 }
