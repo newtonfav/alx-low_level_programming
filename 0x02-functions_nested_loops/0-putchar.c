@@ -6,7 +6,8 @@
  */
 int main(void)
 {
-	_putchar("_putchar");
-	_putchar('\n');
+	char n[] = "_putchar";
+
+	_putchar('u');
 	return (0);
 }
