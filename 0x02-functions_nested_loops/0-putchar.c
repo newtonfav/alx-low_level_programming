@@ -6,13 +6,7 @@
  */
 int main(void)
 {
-	int i;
-	char put[] = "_putchar";
-
-	for (i = 0; i <= 8; i++)
-	{
-		putchar(put[i]);
-	}
-	putchar('\n');
+	_putchar("_putchar");
+	_putchar('\n');
 	return (0);
 }
