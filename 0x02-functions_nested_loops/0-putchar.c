@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <main.h>
 /**
  * main - lsls
@@ -7,6 +6,6 @@
  */
 int main(void)
 {
-	putchar("_putchar\n");
+	putchar('r\n');
 	return (0);
 }
