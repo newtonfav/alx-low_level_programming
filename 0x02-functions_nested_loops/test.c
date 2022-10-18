@@ -1,7 +1,9 @@
-#include "main.h"
+#include <stdio.h>
 
 int main(void)
 {
-	print_alphabet();
+	int c = 'a';
+
+	printf("hello %d\n", c);
 	return (0);
 }
