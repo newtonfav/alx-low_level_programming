@@ -2,10 +2,11 @@
 
 int main(void)
 {
-	int c = 'a';
-	int b;
+	int m;
 
-	b = 5 + '0';
-	printf("hello %d b is %d\n", c, b);
+	for (m = 0; m < 5; m++)
+	{
+		printf("m is %d\n", m);
+	}
 	return (0);
 }
