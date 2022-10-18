@@ -3,7 +3,9 @@
 int main(void)
 {
 	int c = 'a';
+	int b;
 
-	printf("hello %d\n", c);
+	b = 5 + '0';
+	printf("hello %d b is %d\n", c, b);
 	return (0);
 }
