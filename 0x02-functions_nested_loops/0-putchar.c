@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 /**
  * main - lsls
  *
@@ -6,6 +7,13 @@
  */
 int main(void)
 {
-	putchar('r\n');
+	int i;
+	char put[] = "putchar";
+
+	for (i = 0; i < strlen(put); i++)
+	{
+		printf("%c", put[i]);
+	}
+	putchar('\n');
 	return (0);
 }
