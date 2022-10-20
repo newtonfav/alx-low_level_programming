@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isupper - check if a parameter is uppercase 
+ * _isupper - check if a parameter is uppercase
  *
  * Return: always return 0
  *
@@ -8,7 +8,7 @@
  */
 int _isupper(int c)
 {
-	if (c >= "A" || c <= "Z")
+	if (c >= 'A' || c <= 'Z')
 	{
 		return (1);
 	}
