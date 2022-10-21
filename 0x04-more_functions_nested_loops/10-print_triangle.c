@@ -1,4 +1,4 @@
-#include "main.b"
+#include "main.h"
 /**
  * print_triangle - &:&:'mss
  *
@@ -29,4 +29,3 @@ void print_triangle(int size)
 		}
 	}
 }
-
