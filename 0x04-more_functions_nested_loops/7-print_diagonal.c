@@ -4,7 +4,7 @@
  *
  * @n: skksnsnzn
  */
-void diagonal(int n)
+void print_diagonal(int n)
 {
 	int i, j;
 
