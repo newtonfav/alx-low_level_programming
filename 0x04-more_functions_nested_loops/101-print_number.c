@@ -1,10 +1,8 @@
 #include "main.h"
 /**
- * main - nmsmdjdnd
- *
- * @n: hdnsnnds
- *
  * print_number - !:!:'dmsma
+ *
+ * @n: jndndnbdbbd
  *
  * Regurn: hsnsnsmd
  */
