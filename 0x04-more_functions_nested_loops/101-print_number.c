@@ -2,6 +2,10 @@
 /**
  * main - nmsmdjdnd
  *
+ * @n: hdnsnnds
+ *
+ * print_number - !:!:'dmsma
+ *
  * Regurn: hsnsnsmd
  */
 void print_number(int n)
